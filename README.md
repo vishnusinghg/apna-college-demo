@@ -1,3 +1,3 @@
 # apna-college-demo
-author vishnu singh
+author-vishnu singh<br>
 this is my first repo
